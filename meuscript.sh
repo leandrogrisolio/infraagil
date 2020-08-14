@@ -1,0 +1,16 @@
+cd /home/
+mkdir projeto
+cd projeto/
+mkdir src
+touch src/main.py
+mkdir api
+touch api/service.py
+mkdir doc
+touch doc/interface.txt
+touch doc/modules.txt
+touch doc/projeto.txt
+cd src/
+mkdir utils
+touch utils/common.py
+mkdir modules
+touch modules/dbconnect.py
